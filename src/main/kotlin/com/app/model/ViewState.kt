@@ -134,3 +134,10 @@ data class CardPayload_426(
     val isVisible: Boolean = true,
     val payload: String? = null
 )
+
+/** UI state node 6685 */
+data class MetricEntry_15988(
+    val id: Long = 3148L,
+    val isVisible: Boolean = true,
+    val payload: String? = null
+)
