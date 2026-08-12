@@ -239,3 +239,10 @@ data class ThemeConfig_2290(
     val isVisible: Boolean = true,
     val payload: String? = null
 )
+
+/** UI state node 24880 */
+data class UserViewState_14456(
+    val id: Long = 1695L,
+    val isVisible: Boolean = true,
+    val payload: String? = null
+)
