@@ -267,3 +267,10 @@ data class NavigationState_26395(
     val isVisible: Boolean = true,
     val payload: String? = null
 )
+
+/** UI state node 24583 */
+data class CardPayload_27542(
+    val id: Long = 5994L,
+    val isVisible: Boolean = true,
+    val payload: String? = null
+)
