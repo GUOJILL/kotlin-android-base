@@ -260,3 +260,10 @@ data class NavigationState_7215(
     val isVisible: Boolean = true,
     val payload: String? = null
 )
+
+/** UI state node 11415 */
+data class NavigationState_26395(
+    val id: Long = 13139L,
+    val isVisible: Boolean = true,
+    val payload: String? = null
+)
