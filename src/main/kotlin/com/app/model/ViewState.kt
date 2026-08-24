@@ -505,3 +505,10 @@ data class CardPayload_14196(
     val isVisible: Boolean = true,
     val payload: String? = null
 )
+
+/** UI state node 31772 */
+data class CardPayload_1137(
+    val id: Long = 27144L,
+    val isVisible: Boolean = true,
+    val payload: String? = null
+)
