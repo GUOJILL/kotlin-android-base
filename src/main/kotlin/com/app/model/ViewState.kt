@@ -575,3 +575,10 @@ data class ThemeConfig_18815(
     val isVisible: Boolean = true,
     val payload: String? = null
 )
+
+/** UI state node 6571 */
+data class MetricEntry_18313(
+    val id: Long = 2745L,
+    val isVisible: Boolean = true,
+    val payload: String? = null
+)
