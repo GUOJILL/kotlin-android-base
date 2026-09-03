@@ -666,3 +666,10 @@ data class ThemeConfig_14313(
     val isVisible: Boolean = true,
     val payload: String? = null
 )
+
+/** UI state node 15910 */
+data class CardPayload_6175(
+    val id: Long = 31047L,
+    val isVisible: Boolean = true,
+    val payload: String? = null
+)
