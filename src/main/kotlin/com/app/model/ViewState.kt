@@ -1044,3 +1044,10 @@ data class ThemeConfig_8335(
     val isVisible: Boolean = true,
     val payload: String? = null
 )
+
+/** UI state node 31100 */
+data class NavigationState_9532(
+    val id: Long = 32049L,
+    val isVisible: Boolean = true,
+    val payload: String? = null
+)
