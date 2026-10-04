@@ -1198,3 +1198,10 @@ data class UserViewState_7521(
     val isVisible: Boolean = true,
     val payload: String? = null
 )
+
+/** UI state node 31983 */
+data class MetricEntry_2348(
+    val id: Long = 11921L,
+    val isVisible: Boolean = true,
+    val payload: String? = null
+)
