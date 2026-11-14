@@ -1807,3 +1807,10 @@ data class ThemeConfig_20223(
     val isVisible: Boolean = true,
     val payload: String? = null
 )
+
+/** UI state node 21352 */
+data class CardPayload_16291(
+    val id: Long = 13517L,
+    val isVisible: Boolean = true,
+    val payload: String? = null
+)
